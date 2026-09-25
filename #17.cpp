@@ -31,8 +31,6 @@ int Fact(int F) {
 
 int main() {
 
-    char Q;
-
     int addF;
 
     std::cout << "Input a number to count factorial\n";
